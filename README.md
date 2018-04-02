@@ -21,5 +21,5 @@
 1. 修改nginx.conf配置文件
 2. 加入项目nginx.conf文件到自己的nginx服务器配置
 3. 部署项目到web服务器，重启nginx，让修改的配置文件生效（默认为根路径，如修改路径请修改nginx.conf的url重写路径）
-4. 测试http://127.0.0.1/uploads/1_500x500.jpg[http://127.0.0.1/uploads/1_500x500.jpg]
+4. 测试http://127.0.0.1/uploads/1_500x500.jpg[http://127.0.0.1/uploads/1_500x500.jpg
 （生成一张./uploads/images/1.jpg,500x500大小的缩略图，假如没有生成一张有500x500字符的图片）
